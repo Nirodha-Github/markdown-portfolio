@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*PHP*
+_Laravel 8_
+
+**Web Design and Development**
+__HTML CSS JS__
+
+_I **love** to coding_
+ 
